@@ -254,4 +254,4 @@ The source code and project files are available in the GitHub repository.
 
 Badji Mokhtar University, Annaba
 
-Academic Year 2025/2026
+Academic Year 2025/2026clea
