@@ -1,0 +1,18 @@
+Input_Type,Algorithm,Array_Size,Repetitions,Average_Time_ms,Peak_Additional_Private_Memory_KB,Status
+Random,Bubble Sort,1000,5,1.799340,8.00,PASS
+Random,Selection Sort,1000,5,1.238360,4.00,PASS
+Random,Insertion Sort,1000,5,0.572200,4.00,PASS
+Random,Merge Sort,1000,5,0.243580,16.00,PASS
+Random,Quick Sort,1000,5,0.086640,4.00,PASS
+Random,Bubble Sort,5000,5,41.742740,4.00,PASS
+Random,Selection Sort,5000,5,26.416940,4.00,PASS
+Random,Insertion Sort,5000,5,11.853860,4.00,PASS
+Random,Merge Sort,5000,5,1.293060,4.00,PASS
+Random,Quick Sort,5000,5,0.415820,4.00,PASS
+Random,Bubble Sort,10000,5,184.577080,4.00,PASS
+Random,Selection Sort,10000,5,103.979580,4.00,PASS
+Random,Insertion Sort,10000,5,48.087540,4.00,PASS
+Random,Merge Sort,10000,5,2.008940,8.00,PASS
+Random,Quick Sort,10000,5,0.975720,4.00,PASS
+Random,Merge Sort,100000,5,22.321220,416.00,PASS
+Random,Quick Sort,100000,5,10.066840,4.00,PASS
